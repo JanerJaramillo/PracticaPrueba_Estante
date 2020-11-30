@@ -1,0 +1,14 @@
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\obj\Debug\CapaDeNegocio.csprojAssemblyReference.cache
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\MySql.Data.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\Renci.SshNet.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\bin\Debug\MySql.Data.xml
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PracticaPrueba\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
